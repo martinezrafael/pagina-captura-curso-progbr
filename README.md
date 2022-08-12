@@ -4,7 +4,8 @@ Landing page fictícia, desenvolvida para capturar clientes para um workshop de 
 
 ![image](https://user-images.githubusercontent.com/33470634/184373664-82ea1213-5320-49e9-8884-f0544e1dffef.png)
 
-Projeto criado no curso de <a href='https://programadorbr.com/'> desenvolvimento web full stack </a> do programador br
+Projeto criado no curso de <a href='https://programadorbr.com/'> desenvolvimento web full stack </a> do programador br,
+com a finalidade de identificarmos uma possibilidade de trabalho que poderiamos fazer com o que haviamos aprendido até o momento no curso.
 
 **Tecnologias utilizadas**
 <div>
